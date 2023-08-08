@@ -1,0 +1,172 @@
+body, h1, h2 ,h3, ul, p {
+    margin: 0;
+    padding: 0;
+}
+#header {
+    background-color: #3f3f3f;
+    border-color: 5px solid rgb(252, 6, 6)
+}
+
+#header h1 {
+    color: #fff;
+    font-family: sans-serif;
+    padding: 15px 0;
+    display: inline-block;
+} 
+
+#header .logo {
+    color: red;
+}
+
+.navbar {
+    float: right;
+}
+
+.navbar  li {
+    display: inline;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 10px;
+    display: inline-block;
+}
+
+.navbar li a:hover {
+    color:gold
+}
+.conatiner {
+    width: 70%;
+    margin: auto;
+}
+
+#banner {
+    height: 60vh;
+    background-image: url(How-To-Be-Successful-In-Forex-Trading.jpg);
+    background-size: cover;
+    background-position: center 10px;
+    text-align: center;
+    color: #ffffff;   
+    font-family: sans-serif;
+}
+
+#banner h1 {
+    font-size: 56px;
+    margin-bottom: 25px;
+    padding-top: 150px;
+}
+
+#newsletter {
+    background-color: #35424a;
+    color: #fff;
+    font-family: sans-serif;
+    padding: 20px 0;
+    display: inline-block;
+    width: 100%;
+}
+
+#newsletter .left {
+    float: left;
+}
+
+#newsletter .right {
+    float: right;
+} 
+
+#newsletter input {
+    padding: 5px;
+}
+
+.button {
+    padding: 7px 15px;
+    border: none;
+    background-color: red;
+    color: #fff;
+    margin-left: 1px;
+}
+
+#courses {
+    padding: 30px 0;
+}
+
+.box {
+    width: 33.3%;
+    float: left;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.box img {
+    max-width: 100%;
+    width: 130px;
+}
+
+.clr {
+    clear: both;
+}
+
+#footer {
+    padding: 50px 0;
+    text-align: center;
+    background-color: red;
+    color: #fff;
+    margin-top: 30px;
+}
+
+.main-content {
+    width: 65%;
+    float: left;
+}
+
+.sidebar {
+    width: 30%;
+    float: right;
+}
+
+#about-us {
+    margin: 40px 0;
+    font-family: sans-serif;
+}
+.bg-dark {
+    background-color: #35424a;
+    color: #fff;
+    padding: 15px;
+}
+
+.service-box {
+    padding: 30px;
+    margin: 15px 0;
+    background-color: #e5e5e5;
+    border: 1px solid #555;
+}
+
+label {
+    display: block;
+    margin: 10px 0;
+}
+
+.form-input,textarea {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.active {
+    color: coral !important;
+}
+
+#banner2 {
+    height: 80vh;
+    background-image: url(photo_2023-03-29_23-20-38.jpg);
+    background-size: cover;
+    background-position: center 10px;
+    text-align: center;
+    color: #000000;   
+    font-family: sans-serif;
+}
+
+.form-input,textarea {
+    width: 100%;
+    padding: 10px 0;
+}
